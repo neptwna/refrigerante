@@ -1,2 +1,2 @@
-# refrigerante
-Projeto front-end desenvolvido com HTML, CSS e Java Script, focado na prática de fundamentos de estrutura, estilização e interatividade.
+# repositório-refrigerante
+Projeto desemvolvido com o objetivo de aplicar, na prática, conceitos básicos de HTML, CSS e JavaScript, incluindo estruturação, estilização e interatividade. 
